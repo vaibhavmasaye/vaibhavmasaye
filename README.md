@@ -62,7 +62,7 @@ learning: Flutter
 
 ### Mobile & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,android,git,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,git,postman,vscode" />
 </p>
 
 ---
@@ -70,16 +70,6 @@ learning: Flutter
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=vaibhavmasaye&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=00D2FF&text_color=FFFFFF" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavmasaye&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=FFFFFF" />
-      </td>
-    </tr>
-  </table>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavmasaye&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D2FF&ring=00D2FF&fire=FF6B6B&currStreakLabel=00D2FF" />
 
