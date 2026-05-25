@@ -14,7 +14,7 @@
     <a href="mailto:masayevaibhav@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" />
     </a>
-    <a href="https://vaibhavmasaye.onrender.com/" target="_blank">
+    <a href="https://www.vaibhavmasaye.com/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&color=FF5722" />
     </a>
   </p>
@@ -31,13 +31,13 @@ role: Full Stack Developer
 location: India
 company: Atomos Technology
 email: masayevaibhav@gmail.com
-website: https://vaibhavmasaye.onrender.com/
+website: https://www.vaibhavmasaye.com/
 learning: Flutter
 ```
 
 - 🔭 Currently building **Dignisys**
 - 🌱 Expanding skills in **DevOps**
-- 👨‍💻 All projects available at **[My Portfolio](https://vaibhavmasaye.onrender.com/)**
+- 👨‍💻 All projects available at **[My Portfolio](https://www.vaibhavmasaye.com/)**
 - 📫 Reach me at **masayevaibhav@gmail.com**
 - ⚡ Fun fact: I love turning complex problems into simple, beautiful solutions
 
@@ -87,8 +87,8 @@ learning: Flutter
 
 | Project | Tech Stack | Description |
 |---------|-----------|-------------|
-| **[Atomos Technology](https://vaibhavmasaye.onrender.com/)** | `React` `Node.js` `MongoDB` | Currently building innovative tech solutions |
-| **[Portfolio](https://vaibhavmasaye.onrender.com/)** | `React` `Tailwind` `Vercel` | Personal developer portfolio |
+| **[Atomos Technology](https://www.vaibhavmasaye.com/)** | `React` `Node.js` `MongoDB` | Currently building innovative tech solutions |
+| **[Portfolio](https://www.vaibhavmasaye.com/)** | `React` `Tailwind` `Vercel` | Personal developer portfolio |
 
 </div>
 
