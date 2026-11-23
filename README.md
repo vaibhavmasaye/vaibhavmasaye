@@ -1,24 +1,17 @@
 <div align="center">
 
 <a href="https://vaibhavmasaye.com/">
-  <img src="https://vaibhavmasaye.com/favicon/android-chrome-512x512.png" width="88" height="88" alt="Vaibhav Masaye’s personal monogram" />
+  <img src="./assets/portfolio-cover.svg" width="100%" alt="Vaibhav Masaye, Senior Full-Stack Developer. Visit vaibhavmasaye.com." />
 </a>
 
-<h1>Vaibhav Masaye</h1>
-
-<p><strong>Senior Full-Stack Developer</strong> · Mumbai, India</p>
-<p>I build web products, backend services, and cloud systems.</p>
-
-<p><a href="https://vaibhavmasaye.com/"><strong>Visit vaibhavmasaye.com ↗</strong></a></p>
 <p>
+  <a href="https://vaibhavmasaye.com/"><strong>Portfolio ↗</strong></a> &nbsp;·&nbsp;
   <a href="https://vaibhavmasaye.com/work">Case studies</a> &nbsp;·&nbsp;
   <a href="https://vaibhavmasaye.com/Vaibhav_Masaye_Resume.pdf">Résumé</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/vaibhavmasaye/">LinkedIn</a>
 </p>
 
 </div>
-
-<br />
 
 ## About
 
@@ -52,14 +45,5 @@ Market research platform for surveys, quotas, suppliers, and project operations.
 | **Cloud & delivery** | AWS · Docker · Vercel · Git · CI/CD |
 | **Mobile** | Android · iOS · Flutter |
 
----
 
-<div align="center">
-
-<a href="https://vaibhavmasaye.com/">
-  <img src="https://vaibhavmasaye.com/api/og?title=Vaibhav+B.+Masaye&amp;subtitle=Senior+Full+Stack+Developer" width="620" alt="Vaibhav Masaye’s portfolio preview" />
-</a>
-
-<p><a href="https://vaibhavmasaye.com/"><strong>Explore the portfolio ↗</strong></a> &nbsp;·&nbsp; <a href="mailto:masayevaibhav@gmail.com">Get in touch</a></p>
-
-</div>
+[Get in touch](mailto:masayevaibhav@gmail.com)
