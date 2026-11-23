@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430" role="img" aria-labelledby="title">
+  <title id="title">Vaibhav Masaye · Senior Full-Stack Developer</title>
+  <defs>
+    <linearGradient id="surface" x2="0" y2="1">
+      <stop stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#edf2fb"/>
+    </linearGradient>
+    <radialGradient id="light">
+      <stop stop-color="#b7cbff" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#b7cbff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="icon"><rect x="458" y="51" width="84" height="84" rx="20"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="998" height="428" rx="36" fill="url(#surface)" stroke="#d4dce9" stroke-width="2"/>
+  <ellipse cx="500" cy="120" rx="425" ry="115" fill="url(#light)"/>
+  <rect x="458" y="57" width="84" height="84" rx="20" fill="#0a2540" opacity=".14"/>
+  <image href="data:image/png;base64,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" x="458" y="51" width="84" height="84" clip-path="url(#icon)"/>
+  <g text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="500" y="223" fill="#141821" font-weight="700" font-size="76" letter-spacing="-3">Vaibhav Masaye</text>
+    <text x="500" y="268" fill="#435167" font-size="29" font-weight="500">Senior Full-Stack Developer</text>
+    <rect x="357" y="316" width="286" height="54" rx="27" fill="#005ec4"/>
+    <text x="500" y="350" fill="#ffffff" font-size="23" font-weight="600">vaibhavmasaye.com ↗</text>
+  </g>
+</svg>
