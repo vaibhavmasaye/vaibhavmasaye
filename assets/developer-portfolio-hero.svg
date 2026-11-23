@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-labelledby="title">
+  <title id="title">Vaibhav Masaye. Senior Full-Stack Developer in Mumbai. vaibhavmasaye.com</title>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#071324"/>
+      <stop offset="1" stop-color="#102d50"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop stop-color="#457efe" stop-opacity=".48"/>
+      <stop offset="1" stop-color="#457efe" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#203d6f"/>
+      <stop offset="1" stop-color="#0c1e39"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#b5d6ff"/>
+      <stop offset=".45" stop-color="#70a5ff"/>
+      <stop offset="1" stop-color="#365feb"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="470" rx="30"/></clipPath>
+    <style>@media (prefers-reduced-motion: no-preference) { .cards { animation: float 8s ease-in-out infinite; } } @keyframes float { 50% { transform: translateY(-9px); } }</style>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="470" fill="url(#background)"/>
+    <circle cx="1000" cy="232" r="355" fill="url(#halo)"/>
+    <g fill="none" stroke="#8db4f9" stroke-opacity=".17">
+      <circle cx="973" cy="230" r="156"/>
+      <circle cx="973" cy="230" r="214"/>
+      <circle cx="973" cy="230" r="272"/>
+    </g>
+    <g class="cards">
+      <rect x="822" y="121" width="250" height="190" rx="24" fill="#081a34" stroke="#41659c" transform="rotate(12 947 216)"/>
+      <rect x="832" y="144" width="250" height="190" rx="24" fill="url(#glass)" stroke="#7099dd" transform="rotate(-8 957 239)"/>
+      <g transform="rotate(-8 957 239)">
+        <path d="M856 190h204" stroke="#597fb8"/>
+        <g fill="#a1c6ff"><circle cx="859" cy="168" r="3"/><circle cx="872" cy="168" r="3"/><circle cx="885" cy="168" r="3"/></g>
+        <path d="m926 222-26 25 26 25m56-50 26 25-26 25m-19-58-19 66" fill="none" stroke="url(#blue)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+      <text x="76" y="91" fill="#b8d2ff" font-size="21" font-weight="600" letter-spacing="2">SENIOR FULL-STACK DEVELOPER</text>
+      <text x="72" y="204" fill="#f6f9ff" font-size="88" font-weight="700" letter-spacing="-3">Vaibhav</text>
+      <text x="72" y="292" fill="#9ec6ff" font-size="88" font-weight="700" letter-spacing="-3">Masaye.</text>
+      <text x="77" y="354" fill="#d0ddef" font-size="26">Web products, backend systems, and cloud delivery.</text>
+      <text x="77" y="413" fill="#b8d2ff" font-size="23" font-weight="600">vaibhavmasaye.com ↗</text>
+    </g>
+  </g>
+</svg>
